@@ -2,8 +2,15 @@
 	path = externals/SDL3
 	url = https://github.com/ZhangX-Lab/SDL.git
 	branch = test_dev
-
-[submodule "externals/SDL_image"]
-	path = externals/SDL_image
+[submodule "externals/SDL3_image"]
+	path = externals/SDL3_image
 	url = https://github.com/ZhangX-Lab/SDL_image.git
+	branch = test_dev
+[submodule "externals/SDL3_mixer"]
+	path = externals/SDL3_mixer
+	url = https://github.com/ZhangX-Lab/SDL_mixer.git
+	branch = test_dev
+[submodule "externals/SDL3_ttf"]
+	path = externals/SDL3_ttf
+	url = https://github.com/ZhangX-Lab/SDL_ttf.git
 	branch = test_dev
