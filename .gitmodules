@@ -14,3 +14,8 @@
 	path = externals/SDL3_ttf
 	url = https://github.com/ZhangX-Lab/SDL_ttf.git
 	branch = test_dev
+
+[submodule "externals/glm"]
+	path = externals/glm
+	url = https://github.com/ZhangX-Lab/glm.git
+	branch = test_dev
